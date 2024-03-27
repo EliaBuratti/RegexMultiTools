@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>RegexToolsUtility</PackageId>
+    <Version>1.0.5</Version>
+    <Authors>Elia Buratti</Authors>
+    <Company>Elia Buratti</Company>
+    <Description>This library doing multiple function, it's possible to check mail address, pick (Nome and Cognome) from a phrase, censor bad words and it's possible to add new words and add 'default' bad words, check italian Fiscal Code and convert american data in to european data.</Description>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+</Project>
